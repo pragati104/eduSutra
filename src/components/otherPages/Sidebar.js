@@ -155,7 +155,7 @@ const Sidebar = () => {
           <div className="w-[200px] h-[50px] flex justify-between items-center">
             <Image
               alt="logo"
-              src="/assests/Pragatis.png"
+              src="/assests/pragatis.png"
               width={100}
               height={50}
               style={{ width: "auto", height: "auto" }}
