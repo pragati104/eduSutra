@@ -1,0 +1,692 @@
+{
+  "subject": [
+    {
+      "subject_id": 20,
+      "subject_name": "physics"
+    },
+    {
+      "subject_id": 21,
+      "subject_name": "chemistry"
+    },
+    {
+      "subject_id": 22,
+      "subject_name": "mathematics"
+    }
+  ],
+  "physics": [
+    {
+      "question": "The unit of measurement for electric current is:",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": "Ampere",
+      "type": "single",
+      "userAnswer": "Volt"
+    },
+    {
+      "question": "Which of the following is not a vector quantity?",
+      "options": [],
+      "answer": "Mass",
+      "type": "match the following",
+      "userAnswer": "Mass"
+    },
+    {
+      "question": "The SI unit of power is:",
+      "options": [],
+      "answer": "Watt",
+      "type": "single digit",
+      "userAnswer": "Watt"
+    },
+    {
+      "question": "Which of the following is an example of a non-renewable energy source?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "type": "single",
+      "userAnswer": "Solar energy"
+    },
+    {
+      "question": "The phenomenon of the bending of light when it passes from one medium to another is known as:",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "answer": "Refraction",
+      "type": "single",
+      "userAnswer": "Reflection"
+    },
+    {
+      "question": "What is the formula for Newton's second law of motion?",
+      "options": [],
+      "answer": "F = ma",
+      "type": "single digit",
+      "userAnswer": "F = ma"
+    },
+    {
+      "question": "Which of the following is NOT a fundamental force in nature?",
+      "options": [],
+      "answer": "Heat force",
+      "type": "numerical value",
+      "userAnswer": "Heat force"
+    },
+    {
+      "question": "The unit of measurement for electric current is:",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": "Ampere",
+      "type": "single",
+      "userAnswer": "Ampere"
+    },
+    {
+      "question": "Which of the following is not a vector quantity?",
+      "options": [
+        "Force",
+        "Velocity",
+        "Mass",
+        "Acceleration"
+      ],
+      "answer": "Mass",
+      "type": "single",
+      "userAnswer": "Mass"
+    },
+    {
+      "question": "The SI unit of power is:",
+      "options": [],
+      "answer": "Watt",
+      "type": "single digit",
+      "userAnswer": "Watt"
+    },
+    {
+      "question": "Which of the following is an example of a non-renewable energy source?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "type": "single",
+      "userAnswer": "Solar energy"
+    },
+    {
+      "question": "The phenomenon of the bending of light when it passes from one medium to another is known as:",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "answer": "Refraction",
+      "type": "single",
+      "userAnswer": "Reflection"
+    },
+    {
+      "question": "What is the formula for Newton's second law of motion?",
+      "options": [],
+      "answer": "F = ma",
+      "type": "single digit",
+      "userAnswer": "F = ma"
+    },
+    {
+      "question": "Which of the following is NOT a fundamental force in nature?",
+      "options": [],
+      "answer": "Heat force",
+      "type": "numerical value",
+      "userAnswer": "Heat force"
+    },
+    {
+      "question": "Which of the following is an example of a non-renewable energy source?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "type": "single",
+      "userAnswer": "Coal"
+    },
+    {
+      "question": "The unit of measurement for electric current is:",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": "Ampere",
+      "type": "single",
+      "userAnswer": "Ampere"
+    },
+    {
+      "question": "Which of the following is not a vector quantity?",
+      "options": [
+        "Force",
+        "Velocity",
+        "Mass",
+        "Acceleration"
+      ],
+      "answer": "Mass",
+      "type": "single",
+      "userAnswer": "Mass"
+    },
+    {
+      "question": "The SI unit of power is:",
+      "options": [],
+      "answer": "Watt",
+      "type": "single digit",
+      "userAnswer": "Watt"
+    },
+    {
+      "question": "Which of the following is an example of a non-renewable energy source?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydroelectric energy"
+      ],
+      "answer": "Coal",
+      "type": "single",
+      "userAnswer": "Coal"
+    },
+    {
+      "question": "The phenomenon of the bending of light when it passes from one medium to another is known as:",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "answer": "Refraction",
+      "type": "single",
+      "userAnswer": "Refraction"
+    },
+    {
+      "question": "What is the formula for Newton's second law of motion?",
+      "options": [],
+      "answer": "F = ma",
+      "type": "single digit",
+      "userAnswer": "F = ma"
+    },
+    {
+      "question": "Which of the following is NOT a fundamental force in nature?",
+      "options": [],
+      "answer": "Heat force",
+      "type": "numerical value",
+      "userAnswer": "Heat force"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Ampere"
+      ],
+      "answer": "Newton",
+      "type": "multiple",
+      "userAnswer": "Newton"
+    },
+    {
+      "question": "The energy stored in a stretched or compressed spring is called:",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Mechanical energy",
+        "Elastic energy"
+      ],
+      "answer": "Elastic energy",
+      "type": "multiple",
+      "userAnswer": "Elastic energy"
+    },
+    {
+      "question": "What is the SI unit of electric charge?",
+      "options": [
+        "Volt",
+        "Coulomb",
+        "Ampere",
+        "Ohm"
+      ],
+      "answer": "Coulomb",
+      "type": "multiple",
+      "userAnswer": "Coulomb"
+    },
+    {
+      "question": "What is the process of conversion of a substance from solid state directly into gaseous state called?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Melting"
+      ],
+      "answer": "Sublimation",
+      "type": "multiple",
+      "userAnswer": "Sublimation"
+    },
+    {
+      "question": "The study of the universe is known as:",
+      "options": [
+        "Astronomy",
+        "Astrology",
+        "Cosmology",
+        "Geology"
+      ],
+      "answer": "Astronomy",
+      "type": "multiple",
+      "userAnswer": "Astronomy"
+    },
+    {
+      "question": "Which of the following is a good conductor of electricity?",
+      "options": [
+        "Wood",
+        "Rubber",
+        "Copper",
+        "Plastic"
+      ],
+      "answer": "Copper",
+      "type": "multiple",
+      "userAnswer": "Copper"
+    },
+    {
+      "question": "What is the law of conservation of energy?",
+      "options": [
+        "Energy can be created but not destroyed",
+        "Energy cannot be created nor destroyed",
+        "Energy can be destroyed but not created",
+        "Energy is always created and destroyed simultaneously"
+      ],
+      "answer": "Energy cannot be created nor destroyed",
+      "type": "multiple",
+      "userAnswer": "Energy cannot be created nor destroyed"
+    },
+    {
+      "question": "The branch of physics dealing with the behavior of very small particles is called:",
+      "options": [
+        "Classical physics",
+        "Modern physics",
+        "Quantum physics",
+        "Astrophysics"
+      ],
+      "answer": "Quantum physics",
+      "type": "multiple",
+      "userAnswer": "Quantum physics"
+    }
+  ],
+  "chemistry": [
+    {
+      "question": "Which of the following is the lightest element?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon",
+        "Helium"
+      ],
+      "answer": "Hydrogen",
+      "type": "single",
+      "userAnswer": "Helium"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Au",
+        "Ag",
+        "Fe",
+        "Hg"
+      ],
+      "answer": "Au",
+      "type": "single",
+      "userAnswer": "Fe"
+    },
+    {
+      "question": "The pH value of a neutral solution is:",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "1"
+      ],
+      "answer": "7",
+      "type": "single",
+      "userAnswer": "7"
+    },
+    {
+      "question": "Which gas is produced during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Oxygen",
+      "type": "single",
+      "userAnswer": "Carbon dioxide"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "options": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "CH4"
+      ],
+      "answer": "H2O",
+      "type": "single",
+      "userAnswer": "H2O"
+    },
+    {
+      "question": "Which of the following is a noble gas?",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": "Helium",
+      "type": "multiple",
+      "userAnswer": "Oxygen"
+    },
+    {
+      "question": "What is the main component of natural gas?",
+      "options": [
+        "Methane",
+        "Ethane",
+        "Propane",
+        "Butane"
+      ],
+      "answer": "Methane",
+      "type": "multiple",
+      "userAnswer": "Propane"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": [
+        "NaCl",
+        "KCl",
+        "MgCl2",
+        "CaCl2"
+      ],
+      "answer": "NaCl",
+      "type": "multiple",
+      "userAnswer": "NaCl"
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "options": [
+        "Fe",
+        "Ir",
+        "Au",
+        "Ag"
+      ],
+      "answer": "Fe",
+      "type": "multiple",
+      "userAnswer": "Fe"
+    },
+    {
+      "question": "What is the process of converting a liquid into vapor called?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Filtration"
+      ],
+      "answer": "Evaporation",
+      "type": "multiple",
+      "userAnswer": "Condensation"
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "14"
+      ],
+      "answer": "6",
+      "type": "multiple",
+      "userAnswer": "6"
+    },
+    {
+      "question": "What is the formula for sulfuric acid?",
+      "options": [
+        "H2SO4",
+        "HCl",
+        "HNO3",
+        "NaOH"
+      ],
+      "answer": "H2SO4",
+      "type": "multiple",
+      "userAnswer": "HCl"
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "options": [
+        "CH4",
+        "CO2",
+        "H2O",
+        "NH3"
+      ],
+      "answer": "CH4",
+      "type": "multiple",
+      "userAnswer": "CO2"
+    },
+    {
+      "question": "What is the process of conversion of a gas into a liquid called?",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Deposition"
+      ],
+      "answer": "Condensation",
+      "type": "multiple",
+      "userAnswer": "Evaporation"
+    },
+    {
+      "question": "Which of the following is a greenhouse gas?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Argon"
+      ],
+      "answer": "Carbon dioxide",
+      "type": "multiple",
+      "userAnswer": "Carbon dioxide"
+    }
+  ],
+  "mathematics": [
+    {
+      "question": "What is the value of 3 to the power of 4?",
+      "options": [
+        "9",
+        "12",
+        "27",
+        "81"
+      ],
+      "answer": "81",
+      "type": "multiple",
+      "userAnswer": "27"
+    },
+    {
+      "question": "What is the value of 15 divided by 3?",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": "5",
+      "type": "multiple",
+      "userAnswer": "5"
+    },
+    {
+      "question": "What is the value of 20 minus 7?",
+      "options": [
+        "10",
+        "13",
+        "17",
+        "27"
+      ],
+      "answer": "13",
+      "type": "multiple",
+      "userAnswer": "13"
+    },
+    {
+      "question": "What is the value of 2 times 6?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12",
+      "type": "multiple",
+      "userAnswer": "12"
+    },
+    {
+      "question": "What is the value of 9 plus 4?",
+      "options": [
+        "10",
+        "12",
+        "13",
+        "15"
+      ],
+      "answer": "13",
+      "type": "multiple",
+      "userAnswer": "12"
+    },
+    {
+      "question": "What is the value of 11 times 3?",
+      "options": [
+        "22",
+        "33",
+        "44",
+        "55"
+      ],
+      "answer": "33",
+      "type": "multiple",
+      "userAnswer": "44"
+    },
+    {
+      "question": "What is the value of 18 divided by 6?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "3",
+      "type": "multiple",
+      "userAnswer": "4"
+    },
+    {
+      "question": "What is the value of 7 minus 2?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "type": "single",
+      "userAnswer": "5"
+    },
+    {
+      "question": "What is the value of 5 plus 9?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "14",
+      "type": "single",
+      "userAnswer": "13"
+    },
+    {
+      "question": "What is the value of 8 times 5?",
+      "options": [
+        "32",
+        "35",
+        "40",
+        "45"
+      ],
+      "answer": "40",
+      "type": "single",
+      "userAnswer": "40"
+    },
+    {
+      "question": "What is the value of 25 divided by 5?",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": "5",
+      "type": "single",
+      "userAnswer": "5"
+    },
+    {
+      "question": "What is the value of 15 minus 6?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "9",
+      "type": "single",
+      "userAnswer": "10"
+    },
+    {
+      "question": "What is the value of 6 plus 7?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "13",
+      "type": "single",
+      "userAnswer": "13"
+    },
+    {
+      "question": "What is the value of 4 times 8?",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "answer": "32",
+      "type": "single",
+      "userAnswer": "28"
+    },
+    {
+      "question": "What is the value of 16 divided by 4?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "type": "single",
+      "userAnswer": "3"
+    }
+  ]
+}

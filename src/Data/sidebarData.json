@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Dashboard",
+      "href": "/",
+      "icon": "AiOutlineHome"
+    },
+    {
+      "name": "Live Class",
+      "href": "/liveclass",
+      "icon": "MdOutlineLiveTv"
+    },
+    {
+      "name": "Video Classes",
+      "href": "/videoclasses",
+      "icon": "FaVideo"
+    },
+    {
+      "name": "Test",
+      "href": "/test",
+      "icon": "RxPencil2"
+    },
+    {
+      "name": "Study Notes",
+      "href": "/studynotes",
+      "icon": "FaNotesMedical"
+    },
+    {
+      "name": "My Course",
+      "href": "/myCourses",
+      "icon": "MdSubscriptions"
+    },
+    {
+      "name": "Ask Doubts",
+      "href": "/askdoubts",
+      "icon": "LuMessagesSquare"
+    },
+    {
+      "name": "eCard",
+      "href": "/ecard",
+      "icon": "MdAddCard"
+    },
+    {
+      "name": "Settings",
+      "href": "/settings",
+      "icon": "MdOutlineSettingsSuggest"
+    }
+  ]
+  

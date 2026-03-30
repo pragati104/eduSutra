@@ -1,0 +1,1214 @@
+[
+    {
+    add_question_to_quizset_id: 513,
+    question_id: 512,
+    priority: null,
+    question_timming: 120,
+    question_type: "3",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 05:37:57",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2550,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>If tan A =&nbsp;<span class="math-tex">\(\frac43,\)</span>&nbsp;the value of sin A is</p>",
+    option1: "<p><span class="math-tex">\(\frac45\)</span></p>",
+    option2: "<p><span class="math-tex">\(\frac34\)</span></p>",
+    option3: "<p><span class="math-tex">\(\frac53\)</span></p>",
+    option4: "<p><span class="math-tex">\(\frac75\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "1",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 05:37:57",
+    e_answer_describe: "<p>tan A =&nbsp;<span class="math-tex">\(\frac PB\)</span> =&nbsp;<span class="math-tex">\(\frac43\)</span>&nbsp;(given)</p>
+    
+    <p><img alt="" src="https://dk7h1f5gq849l.cloudfront.net/photos/questions/2022-01-11-131114-3-Windows-Photo-Viewer-1641887027-f884a89b-63b6-47e1-94e4-f02041db6c7d.png" style="height:148px; width:139px" /></p>
+    
+    <p>by using Pythagoras</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(H^2\)</span>&nbsp;=&nbsp;<span class="math-tex">\(P^2+B^2\)</span></p>
+    
+    <p><span class="math-tex">\(H^2\)</span>&nbsp;=&nbsp;<span class="math-tex">\(4^2+3^2\)</span></p>
+    
+    <p><span class="math-tex">\(H^2\)</span>&nbsp;= 25</p>
+    
+    <p>H = 5</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;Now, sin A =&nbsp;<span class="math-tex">\(\frac PH\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac45\)</span>.</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "If tan A = \frac43, the value of sin A is",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 05:37:57",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\frac53\)</span></p>"
+    },
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac34\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\frac45\)</span></p>"
+    },
+    {
+    id: 4,
+    value: "<p><span class="math-tex">\(\frac75\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 520,
+    question_id: 519,
+    priority: null,
+    question_timming: 120,
+    question_type: "2",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 06:36:44",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2559,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>Simplest form of (1 -&nbsp;<span class="math-tex">\(cos^2\)</span>&nbsp;A)&nbsp;<span class="math-tex">\((1+cot^2A)\)</span>&nbsp;is ......... .</p>",
+    option1: "<p>4</p>",
+    option2: "<p>1</p>",
+    option3: "<p>2</p>",
+    option4: "<p>0</p>",
+    option5: null,
+    option: null,
+    answer: "2",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 06:36:44",
+    e_answer_describe: "<p>(1 -&nbsp;<span class="math-tex">\(cos^2\)</span>&nbsp;A)&nbsp;<span class="math-tex">\((1+cot^2A)\)</span></p>
+    
+    <p>=&nbsp;<span class="math-tex">\(sin^2\)</span>&nbsp;A .&nbsp;<span class="math-tex">\(cosec^2\)</span>&nbsp;A</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(sin^2\)</span>&nbsp;A .&nbsp;<span class="math-tex">\(\frac1{sin^2A}\)</span></p>
+    
+    <p>= 1&nbsp;<span class="math-tex">\([\because sin^2\theta+cos^2\theta=1]\)</span></p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "Simplest form of (1 - cos^2 A) ",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 06:36:44",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 4,
+    value: "<p>0</p>"
+    },
+    {
+    id: 2,
+    value: "<p>1</p>"
+    },
+    {
+    id: 3,
+    value: "<p>2</p>"
+    },
+    {
+    id: 1,
+    value: "<p>4</p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 514,
+    question_id: 513,
+    priority: null,
+    question_timming: 120,
+    question_type: "3",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 05:45:45",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2550,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>If sin&nbsp;<span class="math-tex">\(\theta\)</span> + cos&nbsp;<span class="math-tex">\(\theta\)</span> =&nbsp;<span class="math-tex">\(\sqrt2\)</span> cos <span class="math-tex">\(\theta\)</span>, (<span class="math-tex">\(\theta\)</span>&nbsp;<span class="math-tex">\(\neq0^\circ)\)</span>&nbsp;then the value of&nbsp;<span class="math-tex">\(tan\,\theta\)</span>&nbsp;is:</p>",
+    option1: "<p><span class="math-tex">\(\sqrt2\)</span>&nbsp;- 1</p>",
+    option2: "<p><span class="math-tex">\(\sqrt2\)</span>&nbsp;+ 1</p>",
+    option3: "<p><span class="math-tex">\(\sqrt2\)</span></p>",
+    option4: "<p>-<span class="math-tex">\(\sqrt2\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "1",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 05:45:45",
+    e_answer_describe: "<p>sin&nbsp;<span class="math-tex">\(\theta\)</span> + cos&nbsp;<span class="math-tex">\(\theta\)</span> =&nbsp;<span class="math-tex">\(\sqrt2\)</span> cos <span class="math-tex">\(\theta\)</span></p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;sin&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;=&nbsp;(<span class="math-tex">\(\sqrt2\)</span>&nbsp;- 1) cos&nbsp;<span class="math-tex">\(\theta\)</span></p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(\frac{sin\,\theta}{cos\,\theta}\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\sqrt2\)</span>&nbsp;- 1</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;tan&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\sqrt2\)</span>&nbsp;- 1.</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "If sin \theta + cos \theta",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 05:45:45",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\sqrt2\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\sqrt2\)</span>&nbsp;- 1</p>"
+    },
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\sqrt2\)</span>&nbsp;+ 1</p>"
+    },
+    {
+    id: 4,
+    value: "<p>-<span class="math-tex">\(\sqrt2\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 522,
+    question_id: 521,
+    priority: null,
+    question_timming: 120,
+    question_type: "2",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 07:00:27",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 3585,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>The value of&nbsp;<span class="math-tex">\(\frac{tan\,30^\circ}{cot\,60^\circ}\)</span>&nbsp;is</p>",
+    option1: "<p><span class="math-tex">\(\frac1{\sqrt2}\)</span></p>",
+    option2: "<p><span class="math-tex">\(\frac1{\sqrt3}\)</span></p>",
+    option3: "<p><span class="math-tex">\(\sqrt3\)</span></p>",
+    option4: "<p>1</p>",
+    option5: null,
+    option: null,
+    answer: "4",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 07:00:27",
+    e_answer_describe: "<p>We have,</p>
+    
+    <p><span class="math-tex">\(\frac{tan\,30^\circ}{cot\,60^\circ}\)</span>&nbsp;<span class="math-tex">\(=\cfrac{\frac1{\sqrt3}}{\frac1{\sqrt3}}=1.\)</span></p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "The value of \frac{tan\,30^\circ}{cot\,60^\circ} is",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 07:00:27",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac1{\sqrt3}\)</span></p>"
+    },
+    {
+    id: 4,
+    value: "<p>1</p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\sqrt3\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\frac1{\sqrt2}\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 518,
+    question_id: 517,
+    priority: null,
+    question_timming: 120,
+    question_type: "2",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 06:21:06",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2559,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>4&nbsp;<span class="math-tex">\(tan^2\)</span>&nbsp;A - 4&nbsp;<span class="math-tex">\(sec^2\)</span>&nbsp;A is equal to:</p>",
+    option1: "<p>2</p>",
+    option2: "<p>3</p>",
+    option3: "<p>4</p>",
+    option4: "<p>-4</p>",
+    option5: null,
+    option: null,
+    answer: "4",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 06:21:06",
+    e_answer_describe: "<p>4&nbsp;<span class="math-tex">\(tan^2\)</span>&nbsp;A - 4&nbsp;<span class="math-tex">\(sec^2\)</span>&nbsp;A</p>
+    
+    <p>= -4 (<span class="math-tex">\(sec^2\)</span>&nbsp;A - <span class="math-tex">\(tan^2\)</span>&nbsp;A)</p>
+    
+    <p>= -4&nbsp;<span class="math-tex">\(\times\)</span> 1&nbsp;&nbsp;<span class="math-tex">\([\because sec^2\theta-tan^2\theta=1]\)</span></p>
+    
+    <p>= -4.</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "4 tan^2 A - 4 ",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 06:21:06",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 4,
+    value: "<p>-4</p>"
+    },
+    {
+    id: 2,
+    value: "<p>3</p>"
+    },
+    {
+    id: 3,
+    value: "<p>4</p>"
+    },
+    {
+    id: 1,
+    value: "<p>2</p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 527,
+    question_id: 526,
+    priority: null,
+    question_timming: 120,
+    question_type: "1",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 07:39:24",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2559,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>If sin A +&nbsp;<span class="math-tex">\(sin^2\)</span>&nbsp;A = 1, then the value of the expression&nbsp;<span class="math-tex">\((cos^2A+cos^4A)\)</span>&nbsp;is</p>",
+    option1: "<p>1</p>",
+    option2: "<p><span class="math-tex">\(\frac12\)</span></p>",
+    option3: "<p>2</p>",
+    option4: "<p>3</p>",
+    option5: null,
+    option: null,
+    answer: "1",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 07:39:24",
+    e_answer_describe: "<p><strong>Given,</strong></p>
+    
+    <p>sin A +&nbsp; <span class="math-tex">\(sin^2A\)</span>&nbsp;= 1&nbsp; &nbsp;<strong>....(i)</strong></p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(sin^2A\)</span> = 1 - sin A</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(1-cos^2A\)</span>&nbsp;= 1 - sin A&nbsp; <strong>............(ii)</strong></p>
+    
+    <p><strong>Now,</strong></p>
+    
+    <p>We have to find value of&nbsp;&nbsp;<span class="math-tex">\(cos^2A+cos^4A\)</span></p>
+    
+    <p><strong>Put value from (ii), we get</strong></p>
+    
+    <p>sin A +&nbsp;<span class="math-tex">\(sin^2A\)</span> = 1 <strong>[From equation (i)]</strong></p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "If sin A + sin^2 A = 1, then the value of the expression ",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 07:39:24",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac12\)</span></p>"
+    },
+    {
+    id: 3,
+    value: "<p>2</p>"
+    },
+    {
+    id: 1,
+    value: "<p>1</p>"
+    },
+    {
+    id: 4,
+    value: "<p>3</p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 526,
+    question_id: 525,
+    priority: null,
+    question_timming: 120,
+    question_type: "2",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 07:28:23",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2550,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>Given that sin&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac ab\)</span>, then cos&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;is equal to</p>",
+    option1: "<p><span class="math-tex">\(\frac{b}{\sqrt{b^2-a^2}}\)</span></p>",
+    option2: "<p><span class="math-tex">\(\frac{b}a\)</span></p>",
+    option3: "<p><span class="math-tex">\(\frac{\sqrt{b^2-a^2}}b\)</span></p>",
+    option4: "<p><span class="math-tex">\(\frac{a}{\sqrt{b^2-a^2}}\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "3",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 07:28:23",
+    e_answer_describe: "<p><span class="math-tex">\(cos\theta \)</span>&nbsp;=&nbsp;<span class="math-tex">\(\sqrt{1-sin^2\theta}\)</span>&nbsp;</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\sqrt{1-\frac{a^2}{b^2}}\)</span>&nbsp;</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\frac{\sqrt{b^2-a^2}}{b}\)</span>&nbsp;</p>",
+    e_question_describe: null,
+    qcl_id: 2,
+    bt_id: null,
+    title: "Given that sin \theta =",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 07:28:23",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac{b}a\)</span></p>"
+    },
+    {
+    id: 4,
+    value: "<p><span class="math-tex">\(\frac{a}{\sqrt{b^2-a^2}}\)</span></p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\frac{\sqrt{b^2-a^2}}b\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\frac{b}{\sqrt{b^2-a^2}}\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 515,
+    question_id: 514,
+    priority: null,
+    question_timming: 120,
+    question_type: "1",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 05:56:25",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 3585,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>Given that sin&nbsp;<span class="math-tex">\(\alpha\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac{\sqrt3}2\)</span>&nbsp;and cos&nbsp;<span class="math-tex">\(\beta\)</span>&nbsp;= 0, then the value of&nbsp;<span class="math-tex">\(\beta-\alpha\)</span>&nbsp;is:</p>",
+    option1: "<p><span class="math-tex">\(0^\circ\)</span></p>",
+    option2: "<p><span class="math-tex">\(90^\circ\)</span></p>",
+    option3: "<p><span class="math-tex">\(60^\circ\)</span></p>",
+    option4: "<p><span class="math-tex">\(30^\circ\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "4",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 05:56:25",
+    e_answer_describe: "<p>sin&nbsp;<span class="math-tex">\(\alpha\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac{\sqrt3}2\)</span>&nbsp;and cos&nbsp;<span class="math-tex">\(\beta\)</span>&nbsp;= 0</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;sin&nbsp;<span class="math-tex">\(\alpha\)</span>&nbsp;= sin&nbsp;<span class="math-tex">\(60^\circ\)</span>&nbsp;and cos&nbsp;<span class="math-tex">\(\beta\)</span>&nbsp;= cos&nbsp;<span class="math-tex">\(90^\circ\)</span></p>
+    
+    <p><span class="math-tex">\([\because\)</span>&nbsp;sin&nbsp;<span class="math-tex">\(60^\circ\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac{\sqrt3}2\)</span>; cos&nbsp;<span class="math-tex">\(90^\circ\)</span>&nbsp;= 0]</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(\alpha\)</span>&nbsp;=&nbsp;<span class="math-tex">\(60^\circ\)</span>&nbsp;and&nbsp;<span class="math-tex">\(\beta\)</span>&nbsp;=&nbsp;<span class="math-tex">\(90^\circ\)</span></p>
+    
+    <p>So,&nbsp;<span class="math-tex">\(\beta-\alpha\)</span>&nbsp;<span class="math-tex">\(=90^\circ-60^\circ\)</span></p>
+    
+    <p>=&nbsp;<span class="math-tex">\(30^\circ\)</span>.</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "Given that sin \alpha = ",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 05:56:25",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 4,
+    value: "<p><span class="math-tex">\(30^\circ\)</span></p>"
+    },
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(90^\circ\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(0^\circ\)</span></p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(60^\circ\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 524,
+    question_id: 523,
+    priority: null,
+    question_timming: 120,
+    question_type: "2",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 07:11:24",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 3585,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>If 6cot&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;+ 2cosec&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;= cot&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;+ 5cosec&nbsp;<span class="math-tex">\(\theta\)</span>, then&nbsp;<span class="math-tex">\(cos\,\theta\)</span>&nbsp;is</p>",
+    option1: "<p><span class="math-tex">\(\frac45\)</span></p>",
+    option2: "<p><span class="math-tex">\(\frac53\)</span></p>",
+    option3: "<p><span class="math-tex">\(\frac35\)</span></p>",
+    option4: "<p><span class="math-tex">\(\frac54\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "3",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 07:11:24",
+    e_answer_describe: "<p><strong>We have,</strong></p>
+    
+    <p><span class="math-tex">\(6\,cot\theta\)</span>&nbsp;+&nbsp;<span class="math-tex">\(2\,cosec\theta \)</span>&nbsp;= <span class="math-tex">\(cot\theta\)</span>&nbsp;+&nbsp;<span class="math-tex">\(5\,cosec\theta \)</span></p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(5\,cot\theta\)</span>&nbsp;=&nbsp;<span class="math-tex">\(3\,cosec\theta \)</span>&nbsp;</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(5\frac{cos\theta}{sin\theta}\)</span>&nbsp;=&nbsp;<span class="math-tex">\(3\frac{1}{sin\theta}\)</span>&nbsp;</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(5\,cos\theta\)</span>&nbsp;= 3</p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;<span class="math-tex">\(cos\theta\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac{3}{5}\)</span>.</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "If 6cot \theta + 2cosec \theta = cot \theta + 5cosec \theta,",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 07:11:24",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\frac35\)</span></p>"
+    },
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac53\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\frac45\)</span></p>"
+    },
+    {
+    id: 4,
+    value: "<p><span class="math-tex">\(\frac54\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 521,
+    question_id: 520,
+    priority: null,
+    question_timming: 120,
+    question_type: "2",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 06:45:30",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 3585,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>The value of (sin&nbsp;<span class="math-tex">\(30^\circ\)</span>&nbsp;+ cos&nbsp;<span class="math-tex">\(30^\circ\)</span>)&nbsp;<span class="math-tex">\(-(sin\,60^\circ+cos\,60^\circ)\)</span>&nbsp;is</p>",
+    option1: "<p>-1</p>",
+    option2: "<p>0</p>",
+    option3: "<p>1</p>",
+    option4: "<p>2</p>",
+    option5: null,
+    option: null,
+    answer: "2",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 06:45:30",
+    e_answer_describe: "<p><span class="math-tex">\((sin\,30^{\circ}\)</span>&nbsp;+&nbsp;<span class="math-tex">\(cos\,30^{\circ})\)</span>&nbsp;-&nbsp;<span class="math-tex">\((sin\,60^{\circ}\)</span>&nbsp;+&nbsp;<span class="math-tex">\(cos\,60^{\circ})\)</span></p>
+    
+    <p>=&nbsp;<span class="math-tex">\((\frac{1}{2}\)</span>&nbsp;+&nbsp;<span class="math-tex">\(\frac{\sqrt 3}{2})\)</span>&nbsp;-&nbsp;<span class="math-tex">\((\frac{\sqrt 3}{2}\)</span>&nbsp;+&nbsp;<span class="math-tex">\(\frac{1}{2})\)</span></p>
+    
+    <p>= 0</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "The value of (sin 30^\circ + cos 30^\circ) -(sin\,60^\circ+cos\,60^\circ) is",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 06:45:30",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 2,
+    value: "<p>0</p>"
+    },
+    {
+    id: 4,
+    value: "<p>2</p>"
+    },
+    {
+    id: 3,
+    value: "<p>1</p>"
+    },
+    {
+    id: 1,
+    value: "<p>-1</p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 523,
+    question_id: 522,
+    priority: null,
+    question_timming: 120,
+    question_type: "3",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 07:07:34",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 3585,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>The value of (sin&nbsp;<span class="math-tex">\(45^\circ\)</span>&nbsp;+ cos&nbsp;<span class="math-tex">\(45^\circ\)</span>) is</p>",
+    option1: "<p><span class="math-tex">\(\frac1{\sqrt2}\)</span></p>",
+    option2: "<p><span class="math-tex">\(\sqrt2\)</span></p>",
+    option3: "<p><span class="math-tex">\(\frac{\sqrt3}2\)</span></p>",
+    option4: "<p>1</p>",
+    option5: null,
+    option: null,
+    answer: "2",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 07:07:34",
+    e_answer_describe: "<p>We have,</p>
+    
+    <p>sin&nbsp;<span class="math-tex">\(45^\circ\)</span>&nbsp;+ cos&nbsp;<span class="math-tex">\(45^\circ\)</span></p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\frac1{\sqrt2}\)</span>&nbsp;+&nbsp;<span class="math-tex">\(\frac1{\sqrt2}\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac2{\sqrt2}\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\sqrt2.\)</span></p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "The value of (sin 45^\circ + cos 45^\circ) is",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 07:07:34",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\sqrt2\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\frac1{\sqrt2}\)</span></p>"
+    },
+    {
+    id: 4,
+    value: "<p>1</p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\frac{\sqrt3}2\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 517,
+    question_id: 516,
+    priority: null,
+    question_timming: 120,
+    question_type: "1",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 06:12:40",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2559,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>The value of (1 + cos&nbsp;<span class="math-tex">\(\theta\)</span>) (1 -&nbsp;cos&nbsp;<span class="math-tex">\(\theta\)</span>)&nbsp;<span class="math-tex">\(cosec^2\,\theta\)</span>&nbsp;is:</p>",
+    option1: "<p>0</p>",
+    option2: "<p>1</p>",
+    option3: "<p><span class="math-tex">\(cos^2\,\theta\)</span></p>",
+    option4: "<p><span class="math-tex">\(sin^2\,\theta\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "2",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 06:12:40",
+    e_answer_describe: "<p>(1 + cos&nbsp;<span class="math-tex">\(\theta\)</span>) (1 -&nbsp;cos&nbsp;<span class="math-tex">\(\theta\)</span>)&nbsp;<span class="math-tex">\(cosec^2\,\theta\)</span></p>
+    
+    <p>=&nbsp;(1 -&nbsp;<span class="math-tex">\(cos^2\)</span>&nbsp;<span class="math-tex">\(\theta\)</span>)&nbsp;<span class="math-tex">\(cosec^2\,\theta\)</span></p>
+    
+    <p>=&nbsp;<span class="math-tex">\(sin^2\,\theta\)</span>&nbsp;<span class="math-tex">\(cosec^2\,\theta\)</span>&nbsp; &nbsp;<span class="math-tex">\([\because sin^2\,\theta=1-cos^2\,\theta]\)</span></p>
+    
+    <p>=&nbsp;<span class="math-tex">\(sin^2\,\theta\)</span>&nbsp;<span class="math-tex">\(\times\frac1{sin^2\,\theta}\)</span>&nbsp;&nbsp;<span class="math-tex">\([\because cosec\,\theta=\frac1{sin\,\theta}]\)</span></p>
+    
+    <p>= 1.</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "The value of (1 + cos \theta) (1 - cos",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 06:12:40",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 1,
+    value: "<p>0</p>"
+    },
+    {
+    id: 4,
+    value: "<p><span class="math-tex">\(sin^2\,\theta\)</span></p>"
+    },
+    {
+    id: 2,
+    value: "<p>1</p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(cos^2\,\theta\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 525,
+    question_id: 524,
+    priority: null,
+    question_timming: 120,
+    question_type: "3",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 07:20:16",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 3585,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>If sin A =&nbsp;<span class="math-tex">\(\frac12\)</span>, then the value of cot A is</p>",
+    option1: "<p><span class="math-tex">\(\sqrt3\)</span></p>",
+    option2: "<p><span class="math-tex">\(\frac1{\sqrt3}\)</span></p>",
+    option3: "<p><span class="math-tex">\(\frac{\sqrt3}2\)</span></p>",
+    option4: "<p>1</p>",
+    option5: null,
+    option: null,
+    answer: "1",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 07:20:16",
+    e_answer_describe: "<p><strong>Given,&nbsp;</strong></p>
+    
+    <p>sin A =&nbsp;<span class="math-tex">\(\frac{1}{2}\)</span></p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;sin A =&nbsp;<span class="math-tex">\(sin30^{\circ}\)</span></p>
+    
+    <p><span class="math-tex">\(\Rightarrow\)</span>&nbsp;A =&nbsp;<span class="math-tex">\(30^{\circ}\)</span></p>
+    
+    <p><span class="math-tex">\(\therefore  \)</span>&nbsp;cot A = <span class="math-tex">\(cot30^{\circ}\)</span></p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\sqrt 3\)</span>.</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "If sin A = \frac12, then the value of cot A is",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 07:20:16",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac1{\sqrt3}\)</span></p>"
+    },
+    {
+    id: 4,
+    value: "<p>1</p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\sqrt3\)</span></p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\frac{\sqrt3}2\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 516,
+    question_id: 515,
+    priority: null,
+    question_timming: 120,
+    question_type: "3",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 06:05:16",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2550,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>If cos A =&nbsp;<span class="math-tex">\(\frac{4}{5}\)</span>&nbsp;then the value of tan A is :</p>",
+    option1: "<p><span class="math-tex">\(\frac{3}{5}\)</span></p>",
+    option2: "<p><span class="math-tex">\(\frac{3}{4}\)</span></p>",
+    option3: "<p><span class="math-tex">\(\frac{4}{3}\)</span></p>",
+    option4: "<p><span class="math-tex">\(\frac{5}{3}\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "2",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 06:05:16",
+    e_answer_describe: "<p><strong>Given,</strong></p>
+    
+    <p>cos A =&nbsp;<span class="math-tex">\(\frac{4}{5}\)</span>&nbsp;</p>
+    
+    <p><span class="math-tex">\(\therefore \)</span>&nbsp;sin A =&nbsp;<span class="math-tex">\(\sqrt{1-cos^2A}\)</span>&nbsp;</p>
+    
+    <p>[&nbsp;<span class="math-tex">\(\because\)</span>&nbsp;<span class="math-tex">\(sin^2A+cos^2A=1\)</span>]</p>
+    
+    <p>[&nbsp;<span class="math-tex">\(\therefore \)</span>&nbsp;sin A =&nbsp;<span class="math-tex">\(\sqrt{1-cos^2A}\)</span>]</p>
+    
+    <p>sin A =&nbsp;<span class="math-tex">\(\sqrt{1-(\frac{4}{5})^2}\)</span>&nbsp;</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\sqrt{1-\frac{16}{25}}\)</span>&nbsp;</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\sqrt{\frac{9}{25}}\)</span>&nbsp;</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\frac{3}{5}\)</span>&nbsp;</p>
+    
+    <p><strong>Now,</strong></p>
+    
+    <p>tan A =&nbsp;<span class="math-tex">\(\frac{sin\,A}{cos\,A}\)</span>&nbsp;</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\frac{\frac{3}{4}}{\frac{4}{5}}\)</span>&nbsp;</p>
+    
+    <p>=&nbsp;<span class="math-tex">\(\frac{3}{4}\)</span>&nbsp;</p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "If cos A = \frac{4}{5} then the value of tan A is :",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 06:05:16",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(\frac{3}{5}\)</span></p>"
+    },
+    {
+    id: 4,
+    value: "<p><span class="math-tex">\(\frac{5}{3}\)</span></p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\frac{4}{3}\)</span></p>"
+    },
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac{3}{4}\)</span></p>"
+    }
+    ]
+    },
+    {
+    add_question_to_quizset_id: 519,
+    question_id: 518,
+    priority: null,
+    question_timming: 120,
+    question_type: "3",
+    quiz_id: null,
+    add_question_status: "1",
+    isActive: 0,
+    created_by: 19,
+    created_at: "2022-01-11 06:29:08",
+    type: "",
+    category: "m",
+    course_id: 1,
+    sub_course_id: 1,
+    subject_id: 1,
+    unit_id: 5,
+    chapter_id: 10,
+    topic_id: 2550,
+    quiz_code_id: null,
+    quiz_lang_id: "1",
+    question_name: "<p>If 3 cos&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;= 1, then cosec&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;is equal to:</p>",
+    option1: "<p><span class="math-tex">\(2\sqrt2\)</span></p>",
+    option2: "<p><span class="math-tex">\(\frac3{2\sqrt2}\)</span></p>",
+    option3: "<p><span class="math-tex">\(\frac{2\sqrt3}3\)</span></p>",
+    option4: "<p><span class="math-tex">\(\frac4{3\sqrt2}\)</span></p>",
+    option5: null,
+    option: null,
+    answer: "2",
+    exclusive_video: "off",
+    exvideo_title: null,
+    exvideo_time: null,
+    exvideo_file: null,
+    video_type: null,
+    exclusive_image: "off",
+    eximage_title: null,
+    eximage_time: null,
+    eximage_file: null,
+    image_type: null,
+    status: 1,
+    created_date: "2022-01-11 06:29:08",
+    e_answer_describe: "<p><strong><img alt="" src="https://dk7h1f5gq849l.cloudfront.net/photos/questions/2022-01-11-131038-1-Windows-Photo-Viewer-1641887066-37ba0591-a425-4597-8a07-6e73531f4c3d.png" style="height:125px; width:147px" /></strong></p>
+    
+    <p>3 cos&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;= 1,</p>
+    
+    <p>gives&nbsp;cos&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;=&nbsp;<span class="math-tex">\(\frac13\)</span></p>
+    
+    <p>Here B = 1, H = 3</p>
+    
+    <p><span class="math-tex">\(\therefore P=\sqrt{H^2-B^2}=\sqrt{9-1}=\sqrt{8}\)</span></p>
+    
+    <p><span class="math-tex">\(\therefore\)</span>&nbsp;cosec&nbsp;<span class="math-tex">\(\theta\)</span>&nbsp;<span class="math-tex">\(=\frac3{\sqrt8}\)</span>&nbsp;<em>i.e.,</em>&nbsp;<span class="math-tex">\(\frac3{2\sqrt2}.\)</span></p>",
+    e_question_describe: null,
+    qcl_id: 3,
+    bt_id: null,
+    title: "If 3 cos \theta = 1, then cosec \theta is equal to:",
+    meta_tag: "Introduction to Trigonometry",
+    meta_tag_hindi: null,
+    updated_at: "2022-01-11 06:29:08",
+    answerSelected: 0,
+    multipleSelected: [ ],
+    matchSelected: [ ],
+    timeSpent: 0,
+    options: [
+    {
+    id: 4,
+    value: "<p><span class="math-tex">\(\frac4{3\sqrt2}\)</span></p>"
+    },
+    {
+    id: 2,
+    value: "<p><span class="math-tex">\(\frac3{2\sqrt2}\)</span></p>"
+    },
+    {
+    id: 3,
+    value: "<p><span class="math-tex">\(\frac{2\sqrt3}3\)</span></p>"
+    },
+    {
+    id: 1,
+    value: "<p><span class="math-tex">\(2\sqrt2\)</span></p>"
+    }
+    ]
+    }
+    ],
